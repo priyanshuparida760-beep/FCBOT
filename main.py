@@ -31,10 +31,10 @@ OTHER_ADMINS   = []
 ALL_ADMINS     = [PRIORITY_ADMIN] + OTHER_ADMINS
 
 # ── Force Join Config ──
-FSUB_CHANNEL_ID   = -1003223668976   # @CIPHER889988
-FSUB_CHANNEL_LINK = "https://t.me/CIPHER889988"
-FSUB_GROUP_ID     = -1003872185651
-FSUB_GROUP_LINK   = "https://t.me/+Zbb1KpPanc9jMmI1"
+FSUB_CHANNEL_ID   = -1003823619324   # @CIPHER889988
+FSUB_CHANNEL_LINK = "https://t.me/godxpain1"
+FSUB_GROUP_ID     = -1004482210130
+FSUB_GROUP_LINK   = "https://t.me/mikeykun_x"
 
 # ── Anti-edit protection ──
 _PROTECTED_IDS = set([PRIORITY_ADMIN])
